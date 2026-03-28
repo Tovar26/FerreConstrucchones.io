@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/FerreConstrucchones.io/static/css/main.88474277.css",
-    "main.js": "/FerreConstrucchones.io/static/js/main.a499d2a9.js",
+    "main.js": "/FerreConstrucchones.io/static/js/main.8636344d.js",
     "static/media/BolsaTrabajo.png": "/FerreConstrucchones.io/static/media/BolsaTrabajo.cbe9e922b63d58f03164.png",
     "static/media/contactanos.webp": "/FerreConstrucchones.io/static/media/contactanos.60f69e5843fa05cb0e72.webp",
     "static/media/Conocenos.webp": "/FerreConstrucchones.io/static/media/Conocenos.b1f9a3f51c82c71af37a.webp",
@@ -42,10 +42,10 @@
     "static/media/listonv2.webp": "/FerreConstrucchones.io/static/media/listonv2.4ce658628c2b1b509c3a.webp",
     "index.html": "/FerreConstrucchones.io/index.html",
     "main.88474277.css.map": "/FerreConstrucchones.io/static/css/main.88474277.css.map",
-    "main.a499d2a9.js.map": "/FerreConstrucchones.io/static/js/main.a499d2a9.js.map"
+    "main.8636344d.js.map": "/FerreConstrucchones.io/static/js/main.8636344d.js.map"
   },
   "entrypoints": [
     "static/css/main.88474277.css",
-    "static/js/main.a499d2a9.js"
+    "static/js/main.8636344d.js"
   ]
 }
